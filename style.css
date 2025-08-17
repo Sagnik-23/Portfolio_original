@@ -770,7 +770,7 @@ p {
         left: -100%;
         top: 70px;
         flex-direction: column;
-        background-color: rgba(255, 255, 255, 0.98);
+        background-color: rgba(7, 7, 7, 0.98);
         width: 100%;
         text-align: center;
         transition: 0.3s;
@@ -927,3 +927,4 @@ p {
    - Adjust backdrop-filter blur amounts for glass effects
 
 */
+
